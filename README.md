@@ -42,7 +42,8 @@ Currently seeking roles in **data engineering, business intelligence, operations
 
 ## 📌 Featured Projects
 
-### 📊 [Insurance Claims BI Dashboard](https://lisa-insurance-claims.streamlit.app) — **Live Demo**
+### 📊 Insurance Claims BI Dashboard — **[▶ Open Live Demo](https://lisa-insurance-claims.streamlit.app)**
+
 Interactive 5-page Streamlit dashboard for life insurance operations — Loss Ratio, SLA compliance, examiner workload, customer profitability, agent performance.
 `Streamlit` · `Plotly` · `pandas` · `Insurance Domain` · opens in any browser, no install
 
