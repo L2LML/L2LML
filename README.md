@@ -1,8 +1,12 @@
 # Hi, I'm Lisa Lewandowski 👋
 
-I'm a **data engineer, process improvement specialist, and full-stack developer** with a background spanning insurance operations, Lean Six Sigma, and software development. I build things that solve real problems — from cloud migration pipelines to legal document automation.
+**Process improvement is where I create value — and software and data engineering are how I make that improvement measurable, scalable, and permanent.**
 
-Currently seeking roles in **data engineering, business intelligence, operations analytics, and process improvement** — especially in insurance, healthcare, and financial services.
+I'm a **Lean Six Sigma Black Belt (LSSBB)** and **Project Management Professional (PMP)** with a background in full-stack software development, data engineering, creative production, and operations. My work is connected by one discipline: seeing the system, identifying patterns, finding root causes, and building the tools that drive measurable improvement.
+
+I don't just recommend fixes — I build the database that captures the right data, the pipeline that moves it to the cloud, and the dashboard that makes progress visible. Then I hand it to the people inside the process.
+
+Currently seeking roles in **data-driven process improvement, operational analytics, business intelligence, and digital transformation** — especially in insurance, healthcare, financial services, and operations-heavy industries.
 
 ---
 
