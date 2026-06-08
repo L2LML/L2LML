@@ -42,6 +42,12 @@ Currently seeking roles in **data engineering, business intelligence, operations
 
 ## 📌 Featured Projects
 
+### 📊 [Insurance Claims BI Dashboard](https://lisa-insurance-claims.streamlit.app) — **Live Demo**
+Interactive 5-page Streamlit dashboard for life insurance operations — Loss Ratio, SLA compliance, examiner workload, customer profitability, agent performance.
+`Streamlit` · `Plotly` · `pandas` · `Insurance Domain` · opens in any browser, no install
+
+---
+
 ### ☁️ [Insurance Claims Cloud Migration Pipeline](https://github.com/L2LML/professional-portfolio/tree/main/insurance-cloud-migration)
 Python ETL pipeline migrating a PostgreSQL insurance database to AWS S3 as a Parquet data lake.
 `pandas` · `SQLAlchemy` · `pyarrow` · `boto3` · `matplotlib` · data quality validation · 5 audit charts
