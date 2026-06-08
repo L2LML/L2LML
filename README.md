@@ -74,5 +74,6 @@ Python automation that compiles photos, receipts, and documents from an Excel tr
 ## 📫 Get In Touch
 
 [![Email](https://img.shields.io/badge/Email-lisaconfirmations%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lisaconfirmations@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lisamlewandowski-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisamlewandowski/)
 [![GitHub](https://img.shields.io/badge/GitHub-L2LML-181717?style=flat&logo=github&logoColor=white)](https://github.com/L2LML)
 [![Portfolio](https://img.shields.io/badge/Portfolio-professional--portfolio-0284C7?style=flat&logo=github&logoColor=white)](https://github.com/L2LML/professional-portfolio)
